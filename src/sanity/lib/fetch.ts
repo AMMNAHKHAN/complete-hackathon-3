@@ -3,7 +3,7 @@ import { createClient } from "next-sanity";
 
 // Sanity client setup
 const client = createClient({
-  projectId: 'xhyri615', // Aapka Sanity project ID
+  projectId: 'pz9jrk2q', // Aapka Sanity project ID
   dataset: 'production', // Dataset name
   useCdn: true, // CDN use karein
   apiVersion: '2025-01-13', // API version
